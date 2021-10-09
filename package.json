@@ -1,0 +1,60 @@
+{
+  "//1": "Asreaper",
+  "//2": "Asreaper",
+  "name": "Asreaper",
+  "version": "0.0.1",
+  "description": "Asreaper",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "adapter": "^1.0.0-beta.8",
+    "adm-zip": "^0.5.5",
+    "axios": "^0.21.1",
+    "canvas": "^2.7.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "croxy-api": "^2.0.3",
+    "croxydb": "^0.0.7",
+    "dblapi.js": "^2.4.1",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-buttons": "^2.4.1",
+    "discord-giveaways": "^4.2.1",
+    "discord-logs": "^1.9.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "funny-words": "^0.1.2",
+    "generate-password": "^1.6.1",
+    "hastebin-gen": "^2.0.5",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "nukleon": "0.0.2",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.9",
+    "ytdl-core": "^4.9.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
